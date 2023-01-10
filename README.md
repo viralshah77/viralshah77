@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viralshah77
 - 👀 I’m interested in upskilling and looking for better opportunities
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
